@@ -10,9 +10,9 @@ using JackCompiler.CodeAnalysis;
 
 namespace JackCompiler
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main()
         {
             var showTree = false;
 
@@ -35,16 +35,15 @@ namespace JackCompiler
                 }
 
                 var syntaxTree = SyntaxTree.Parse(line);
-                var colour = Console.ForegroundColor;
+
                 if (showTree)
                 {
-
                     Console.ForegroundColor = ConsoleColor.DarkGray;
                     PrettyPrint(syntaxTree.Root);
-                    Console.ForegroundColor = colour;
+                    Console.ResetColor();
                 }
 
-                if(!syntaxTree.Diagnostics.Any())
+                if (!syntaxTree.Diagnostics.Any())
                 {
                     var evaluator = new Evaluator(syntaxTree.Root);
                     var result = evaluator.Evaluate();
@@ -57,10 +56,8 @@ namespace JackCompiler
                     {
                         Console.WriteLine(diagnostic);
                     }
-                    Console.ForegroundColor = colour;
+                    Console.ResetColor();
                 }
-
-
             }
         }
 

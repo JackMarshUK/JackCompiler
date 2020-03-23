@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace JackCompiler.CodeAnalysis
 {
-    internal class Parser
+    internal sealed class Parser
     {
         private readonly SyntaxToken[] m_tokens;
         private int m_position;

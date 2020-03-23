@@ -5,7 +5,7 @@ using System;
 
 namespace JackCompiler.CodeAnalysis
 {
-    class Evaluator
+    public sealed class Evaluator
     {
         private readonly ExpressionSyntax m_root;
 

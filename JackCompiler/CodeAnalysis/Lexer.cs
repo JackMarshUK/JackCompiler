@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace JackCompiler.CodeAnalysis
 {
-    internal class Lexer
+    internal sealed  class Lexer
     {
         private readonly string m_text;
         private int m_position;

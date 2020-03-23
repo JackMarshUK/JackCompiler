@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace JackCompiler.CodeAnalysis
 {
-    abstract class SyntaxNode
+    public abstract class SyntaxNode
     {
         public abstract IEnumerable<SyntaxNode> GetChildren();
 

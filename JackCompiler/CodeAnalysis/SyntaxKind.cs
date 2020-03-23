@@ -3,7 +3,7 @@
 
 namespace JackCompiler.CodeAnalysis
 {
-    enum SyntaxKind
+    public enum SyntaxKind
     {
         NumberToken,
         WhitespaceToken,
