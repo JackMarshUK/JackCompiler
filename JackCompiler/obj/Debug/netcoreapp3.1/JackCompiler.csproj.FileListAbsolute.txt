@@ -1,0 +1,13 @@
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\bin\Debug\netcoreapp3.1\JackCompiler.exe
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\bin\Debug\netcoreapp3.1\JackCompiler.deps.json
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\bin\Debug\netcoreapp3.1\JackCompiler.runtimeconfig.json
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\bin\Debug\netcoreapp3.1\JackCompiler.runtimeconfig.dev.json
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\bin\Debug\netcoreapp3.1\JackCompiler.dll
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\bin\Debug\netcoreapp3.1\JackCompiler.pdb
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.csprojAssemblyReference.cache
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.csproj.CoreCompileInputs.cache
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.AssemblyInfoInputs.cache
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.AssemblyInfo.cs
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.dll
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.pdb
+C:\Users\Jack.Marsh\Documents\JackCompiler\JackCompiler\obj\Debug\netcoreapp3.1\JackCompiler.genruntimeconfig.cache
